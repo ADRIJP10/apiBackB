@@ -14,3 +14,4 @@ try {
 }
 
 export default sequelize;
+

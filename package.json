@@ -1,5 +1,5 @@
 {
-  "name": "company",
+  "name": "book",
   "version": "1.0.0",
   "description": "Mi primera api",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "build": "babel src -d dist"
   },
   "keywords": [],
-  "author": "XaviDev",
+  "author": "AdriJ",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",

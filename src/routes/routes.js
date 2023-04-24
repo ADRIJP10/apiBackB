@@ -1,7 +1,7 @@
-import productsRoutes from "./productsRoutes";
+import bookRoutes from "./bookRoutes";
 
 export default function (app) {
 
-  app.use("/products", productsRoutes);
+  app.use("/book", bookRoutes);
   
 }
